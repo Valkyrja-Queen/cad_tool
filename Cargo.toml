@@ -4,5 +4,5 @@ version = "0.1.0"
 edition = "2021"
 
 [dependencies]
-clipboard-win = "4.4"
-calamine = { version = "0.18", features = ["dataframe"] }
+clipboard-win = "5.4.0"
+calamine = "0.25"
